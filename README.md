@@ -1,5 +1,5 @@
-Terraforming 🌱 Heroku app
-===========================
+A rate-limiting proxy to Heroku Platform API
+============================================
 
 [Terraform](https://www.terraform.io/) as a [Heroku](https://www.heroku.com/) app.
 
